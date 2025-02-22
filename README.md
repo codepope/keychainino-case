@@ -4,5 +4,7 @@ A small battery protecting case for the [Keychainino](https://www.keychainino.co
 
 Comes with FreeCad and 3mf files.
 
+![Keychainino-case](keychainino-case-v1.png)
+
 Enjoy.
 
